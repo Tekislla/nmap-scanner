@@ -1,0 +1,3 @@
+Porta 135: msrpc - Estado: open 
+Porta 137: netbios-ns - Estado: filtered 
+Porta 445: microsoft-ds - Estado: open 
